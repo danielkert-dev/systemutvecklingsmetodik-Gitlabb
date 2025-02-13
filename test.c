@@ -6,4 +6,6 @@ void main(void) {
 	// This writes out Hello World!
 	printf("Hello World!");
 	// En kommentar i slutet från lokala git repo
+
+	// Commit från en cloned repo
 }
